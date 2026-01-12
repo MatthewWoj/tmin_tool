@@ -19,7 +19,6 @@ The tool is designed for comparing the historic Reference Book method against mo
 ## Requirements
 
 - Python 3.8 or later
-- No external dependencies for running the tool
 - pytest (optional, for running tests)
 
 ## Quick Start
